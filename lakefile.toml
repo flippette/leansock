@@ -1,0 +1,10 @@
+name = "leansock"
+version = "0.1.0"
+defaultTargets = ["leansock"]
+
+[[lean_lib]]
+name = "Leansock"
+
+[[lean_exe]]
+name = "leansock"
+root = "Main"

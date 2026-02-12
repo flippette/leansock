@@ -1,0 +1,7 @@
+builds:
+  include:
+    # per-system packages.
+    - packages.*.*
+
+    # pre-built devshells.
+    - devShells.*.default
